@@ -1,0 +1,132 @@
+@font-face {
+    font-family: abster;
+    src: url(font/) format('woff');
+}
+
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 812px;
+    width: 375px;
+    left: -43px;
+    top: 0px;
+    border-radius: 0px;
+    background-image: url(imagE/image\ 1.png);
+}
+
+#ib{
+    position: absolute;
+width: 45px;
+height: 44px;
+left: 307px;
+top: 94px;
+
+background: url(ib-world-school-logo-white-solid-rev.png);
+}
+
+.credits{
+    position: absolute;
+    width: 44px;
+    height: 18px;
+    left: 24px;
+    top: 94px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: -0.08em;
+    color: white;
+}
+
+.moto{
+    position: absolute;
+    width: 226px;
+    height: 135px;
+    left: 24px;
+    top: 266px;
+    
+    font-family: 'Spoqa Han Sans Neo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    letter-spacing: -0.08em;
+    
+    color: #FFFFFF;
+}
+
+#button{
+position: absolute;
+width: 45px;
+height: 45px;
+left: 24px;
+top: 501px;
+}
+
+div .pointer{
+    position: absolute;
+    width: 20px;
+    height: 10px;
+    left: 40px;
+    top: 514px;
+    
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: right;
+    
+    color: #000000;
+}
+
+.powered{
+    position: absolute;
+width: 73px;
+height: 18px;
+left: 103px;
+top: 735px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+letter-spacing: -0.08em;
+
+color: #FFFFFF;
+}
+
+#powered{
+    position: absolute;
+width: 91px;
+height: 21px;
+left: 80px;
+top: 4px;
+}
+
+.head{
+    position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+}
+
+
+
+
